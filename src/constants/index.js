@@ -173,7 +173,7 @@ const projects = [
     {
         name: "Onay Pirinç",
         description:
-            "This site is an online shopping paradise where legume lovers can easily find and order quality, tasty and healthy products.",
+            "This is a shopping site that offers quality, delicious and healthy pulses. Pulses lovers can easily find the products they are looking for on this site, order and get personalized advice.",
             tags: [
             {
                 name: "wordpress",
