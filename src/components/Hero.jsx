@@ -46,7 +46,7 @@ const Hero = () => {
               <img src={mail} alt="Instagram" className='w-9 h-9' />
             </span>
             <span
-              onClick={() => window.open('https://drive.google.com/file/d/1f-ev-8xOviwSRA_VacUZj7w9MXLRSR57/view?usp=sharing', '_blank')}
+              onClick={() => window.open('https://drive.google.com/file/d/1XIEOWMv2nXInXDADo4e5SsGPp5itiPIy/view?usp=sharing', '_blank')}
               className='cursor-pointer'
             >
               <img src={resume} alt="Instagram" className='w-9 h-9' />
