@@ -156,7 +156,7 @@ const projects = [
     {
         name: "Herbalife",
         description:
-            "This site is an online platform where you can easily order herbal and quality products from Herbalife, a global nutrition company that offers healthy nutrition, sports products and personal care products, and receive personalized coaching.",
+            "This site is an online platform where you can easily order herbal and quality products, a global nutrition company that offers healthy nutrition, sports products and personal care products, and receive personalized coaching.",
             tags: [
             {
                 name: "wordpress",
